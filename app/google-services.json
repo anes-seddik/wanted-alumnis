@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572471734511",
+    "project_id": "wanted-allumins",
+    "storage_bucket": "wanted-allumins.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572471734511:android:ee46699e005c5a38022b1a",
+        "android_client_info": {
+          "package_name": "com.facebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572471734511-35cgm8bo6856v96iqt7q2tptpno65acc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxDZ0QlhctO84GAFkQdLlnhcBTXDZ8_sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572471734511-35cgm8bo6856v96iqt7q2tptpno65acc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

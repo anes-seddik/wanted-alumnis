@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Wanted Alumnis</string>
+    <string name="pass">Password</string>
+    <string name="email">Phone or email</string>
+    <string name="recover">Forgot Password?</string>
+    <string name="or">OR</string>
+    <string name="login">Log In</string>
+    <string name="create">Create New Facebook Account</string>
+    <string name="languages">Français.English.</string>
+    <string name="more">More...</string>
+    <string name="out">Log Out</string>
+    <string name="workd1">it worked 1</string>
+    <string name="workd2">it worked 2</string>
+
+</resources>
